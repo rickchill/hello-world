@@ -1,3 +1,3 @@
-# hello-world
+Hello Friends!
 
-I think I might have made a mistake and edited the master :-(
+It's your friendly AV Tech hear :-) Trying to learn about GitHub!

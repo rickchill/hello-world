@@ -2,4 +2,4 @@
 My First Repository
 Hello Friends!
 
-It's you freindly AV Tech hear :-) Trying to learn about GitHub!
+It's your friendly AV Tech hear :-) Trying to learn about GitHub!
